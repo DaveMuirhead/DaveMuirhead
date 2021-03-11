@@ -6,7 +6,7 @@ I am a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems G
 
 I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp, Scala, Prolog and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir is amazing and fun, so now that is my primary focus.
 
-## Technologies I Focus On  
+## My Tools and Tech
 <table width="100%">
 <tr>
 <th width="33%">
@@ -30,7 +30,6 @@ I've been developing software for 27 years in a variety of languages including S
 <td>
 <a href="https://elixir-lang.org/" title="Elixir Language" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/elixir.png" alt="Elixir" height="50" /></a>
 <a href="https://www.phoenixframework.org/" title="Phoenix Framework" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/phoenix.png" alt="Phoenix" height="50" /></a>
-<a href="https://www.rabbitmq.com/" title="RabbitMQ" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/rabbitmq.svg" alt="RabbitMQ" height="50" /></a>
 <a href="https://riak.com/" title="Riak" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/riak.png" alt="Riak" height="50" /></a>
 </td>
 
@@ -49,6 +48,48 @@ I've been developing software for 27 years in a variety of languages including S
 <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/vuejs.png" alt="Vue JS" height="50" />  
 <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/vuetifyjs.png" alt="Vuetify JS" height="50" />  
 <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/alpinejs.png" alt="Alpine JS" height="50" />  
+</td>
+
+</tr></table>
+
+<table width="100%">
+<tr>
+<th width="33%">
+
+### Hybrid Transactional Analytics Platform (HTAP)
+
+</th>
+<th width="33%">
+  
+### DevOps / Cloud
+
+</th>
+<th width="33%">
+  
+### Other Libraries & Tools
+
+</th>
+</tr>
+
+<td>
+<a href="https://www.rabbitmq.com/" title="RabbitMQ" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/rabbitmq.svg" alt="RabbitMQ" height="50" /></a>
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/spark.png" alt="Apache Spark" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/kafka.png" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/tigergraph.png" alt="TigerGraph" height="50" />  
+</td>
+
+<td>
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/docker.png" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/aws.png" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/digitalocean.png" alt="Digital Ocean" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/linux.png" alt="Linux" height="50" /> 
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/github.png" alt="Github" height="50" /> 
+</td>
+
+<td>
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/nginx.png" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/postgresql.png" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/mysql.png" alt="MySQL" height="50" />  
 </td>
 
 </tr></table>
