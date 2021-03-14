@@ -2,11 +2,11 @@
 
 Thanks for stopping by! I hope you find something of interest here. Feel free to connect with me by email or on <a href="https://www.linkedin.com/in/davemuirhead/" targert="_blank">LinkedIn</a>.
 
-I am a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>, a consulting firm that helps forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
+As a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>, I help forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
 
-I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp, Scala, Prolog and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir is amazing and fun, so now that is my primary focus.
+I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp/Scheme, Scala and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir is amazing and fun, so now that is my primary focus.
 
-## My Tools and Tech
+## Tools and Tech
 <table width="100%">
 <tr>
 <th width="33%">
@@ -30,6 +30,7 @@ I've been developing software for 27 years in a variety of languages including S
 <td align="center">
 <a href="https://elixir-lang.org/" title="Elixir Language" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/elixir.png" alt="Elixir" height="50" /></a>
 <a href="https://www.phoenixframework.org/" title="Phoenix Framework" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/phoenix.png" alt="Phoenix" height="50" /></a>
+<a href="https://github.com/elixir-ecto" title="Ecto" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/ecto.png" alt="Ecto" height="50" /></a>
 <a href="https://riak.com/" title="Riak" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/riak.png" alt="Riak" height="50" /></a>
 </td>
 
