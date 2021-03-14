@@ -4,7 +4,7 @@ Thanks for stopping by! I hope you find something of interest here. Feel free to
 
 As a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>, I help forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
 
-I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp/Scheme, Scala and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir is amazing and fun, so now that is my primary focus.
+I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp/Scheme, Scala and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir, and the surrounding ecosystem, is amazingly productive, fun and capable.
 
 ## Tools and Tech
 <table width="100%">
