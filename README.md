@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dave.
 
-Thanks for stopping by! I hope you find something of interest here. Feel free to connect with me by email or on <a href="https://www.linkedin.com/in/davemuirhead/" targert="_blank">LinkedIn</a>.
+Thanks for stopping by! I hope you find something of interest here. Feel free to connect with me by <a href="mailto:dave@brsg.io">email</a> or on <a href="https://www.linkedin.com/in/davemuirhead/" targert="_blank">LinkedIn</a>.
 
 As a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>, I help forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
 
