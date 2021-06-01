@@ -2,7 +2,9 @@
 
 Thanks for stopping by! I hope you find something of interest here. Feel free to connect with me by <a href="mailto:dave@brsg.io">email</a> or on <a href="https://www.linkedin.com/in/davemuirhead/" targert="_blank">LinkedIn</a>.
 
-As a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>, I help forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
+I am a member of the engineering team at <a href="undigital.com">UnDigital</a> since April, 2021 where we are building Personalized Packaging and Unboxing Marketing technology that will significantly increase customer conversion and loyalty. Using UnDigital's technology, e-commerce companies can use known customer attributes to deliver a personalized print insert into each e-commerce package that ships from their warehouse / 3PL.
+
+I am also a Partner in <a href="https://brsg.io" target="_blank">Blue River Systems Group</a>. BRSG is a consulting firm that helps forward-thinking software product companies and IT organizations build custom software solutions on the Elixir and Java platforms. BRSG builds software <a href="https://github.com/brsg" target="_blank">here</a>.
 
 I've been developing software for 27 years in a variety of languages including Smalltalk, Lisp/Scheme, Scala and Java. After 20 years building software on the Java platform, I discovered the Elixir programming language in 2019 and - wow! Elixir, and the surrounding ecosystem, is amazingly productive, fun and capable.
 
