@@ -1,0 +1,3 @@
+Thanks for stopping by! I hope you find something of interest here. Feel free to connect with me by <a href="mailto:dave@brsg.io">email</a> or on <a href="https://www.linkedin.com/in/davemuirhead/" targert="_blank">LinkedIn</a>.
+
+I am a full-lifecycle and full-stack software engineer and have been developing software since 1992 in a variety of languages including Elixir, Java, JavaScript, Smalltalk, Lisp/Scheme, Scala and a bit of Python. Most of my focus has been on data-intensive and distributed backend systems, but I've also been involved in UI development with various web application frameworks including Phoenix, LiveView, Vue and React (not to mention Struts, JSF, Wicket, etc.)
